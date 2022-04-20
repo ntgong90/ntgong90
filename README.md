@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently working on updating this profile
 
 <!--
 **ntgong90/ntgong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
