@@ -14,15 +14,18 @@ This profile is still a work in progress.
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact" />
  </a>
+#### Break 4
+
+[twitter]:https://twitter.com/stopthegong
+
+<!--
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-[twitter]:https://twitter.com/stopthegong
 
 <br />
 **ntgong90/ntgong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
