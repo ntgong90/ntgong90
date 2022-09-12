@@ -11,7 +11,7 @@ This profile is still a work in progress.
 <br/>
 
 ## Stats
-<p float="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true" width="50%"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact" width="50%"/></p>
+<p float="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true" width="50%"/><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact" width="33%"/></p>
  
 ### Break 4
 [linkedin]: https://www.linkedin.com/in/nicholas-gong/
