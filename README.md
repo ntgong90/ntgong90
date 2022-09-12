@@ -14,6 +14,9 @@ This profile is still a work in progress.
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact" />
  </a>
+ 
+ <br/>
+ 
 #### Break 4
 
 [twitter]:https://twitter.com/stopthegong
