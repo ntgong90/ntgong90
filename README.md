@@ -1,5 +1,14 @@
-### Hi there 👋
-🔭 I’m currently working on updating this profile
+### I'm Nick. 
+
+This profile is still a work in progress. 
+
+### Test
+
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntgong90&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ntgong90/ntgong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
