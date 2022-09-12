@@ -5,7 +5,8 @@ This profile is still a work in progress.
 ## Test
 
 ### Let's Connect
-[<img align='left' alt="nothing" width='30px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][twitter]
+[<img align='left' alt="nothing" style="white" width='30px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][twitter]
+[<img align='left' alt="nothing"  width='30px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
 
 #### Stats
 <a href="https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true">
@@ -15,17 +16,11 @@ This profile is still a work in progress.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact" />
  </a>
  
- <br/>
- 
 #### Break 4
-
+[linkedin]: https://www.linkedin.com/in/nicholas-gong/
 [twitter]:https://twitter.com/stopthegong
 
 <!--
-
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
