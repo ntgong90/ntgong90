@@ -1,16 +1,30 @@
-### I'm Nick. 
+# I'm Nick. 
 
 This profile is still a work in progress. 
 
-### Test
+## Test
 
-### Stats
+### Let's Connect
+[<img align='left' alt="nothing" width='30px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][twitter]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntgong90&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+#### Stats
+<a href="https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true" />
+ </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact" />
+ </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&layout=compact&border_color=#D14444)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
+[twitter]:https://twitter.com/stopthegong
+
+<br />
 **ntgong90/ntgong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
