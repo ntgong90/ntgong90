@@ -20,32 +20,23 @@
 <br/>
 
 ## Stats
-
-Vercel Stat Card
 <p float="left"> 
-  <img align="left" src="https://github-readme-stats-alpha.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true" width="50%"/>
-  <img align="top" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=ntgong90&theme=github-dark&hide_border=true&layout=compact" width="33%"/>
+ <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true" width="50%"/>
+ 
+  <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ntgong90&theme=github-dark&hide_border=true&layout=compact&bg_color=00000000&text_color=FFFFFF" width="33%"/>
 </p>
-
-
-
-Azure Stat Card
- 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntgong90?cardType=level&theme=github-dark&Background=0D1117&Ring=2E73E6&Text=F1F1F1&Title=2E73E6)](https://git.io/awesome-stats-card)
-
-<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntgong90?cardType=level&theme=github-dark&Background=0D1117&Ring=2E73E6&Text=F1F1F1&Title=2E73E6)](https://git.io/awesome-stats-card) -->
- 
-
 
 <p align="left"> <img src="https://streak-stats.demolab.com/?user=ntgong90&theme=github-dark-blue&hide_border=true" alt="" /> </p>
  
-
 [github]: https://github.com/ntgong90/
 [linkedin]: https://www.linkedin.com/in/nicholas-gong/
 [twitter]:https://twitter.com/stopthegong
 [gmail]:mailto:ntgong90@gmail.com
 
 <!--Comment Below
+
+<!-- Azure Stat Card
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntgong90?cardType=level&theme=github-dark&Background=0D1117&Ring=2E73E6&Text=F1F1F1&Title=2E73E6)](https://git.io/awesome-stats-card) 
 
  <a href="https://www.linkedin.com/in/nicholas-gong/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
@@ -54,7 +45,6 @@ Azure Stat Card
  <a href="https://twitter.com/stopthegong" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
  </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
