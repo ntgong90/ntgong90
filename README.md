@@ -38,14 +38,6 @@
 <!-- Azure Stat Card
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ntgong90?cardType=level&theme=github-dark&Background=0D1117&Ring=2E73E6&Text=F1F1F1&Title=2E73E6)](https://git.io/awesome-stats-card) 
 
- <a href="https://www.linkedin.com/in/nicholas-gong/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- &nbsp;
- &nbsp;
- <a href="https://twitter.com/stopthegong" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
- </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntgong90&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **ntgong90/ntgong90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
