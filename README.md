@@ -21,9 +21,9 @@
 
 ## Stats
 <p float="left"> 
- <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true" width="50%"/>
+ <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ntgong90&theme=github_dark&hide_border=true&count_private=true&show_icons=true&hide_title=true" width="50%"/>
  
-  <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ntgong90&theme=github-dark&hide_border=true&layout=compact&bg_color=00000000&text_color=FFFFFF" width="33%"/>
+  <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ntgong90&theme=github-dark&hide_border=true&layout=compact&bg_color=00000000&text_color=FFFFFF&icon_color=4c71f2" width="33%"/>
 </p>
 
 <p align="left"> <img src="https://streak-stats.demolab.com/?user=ntgong90&theme=github-dark-blue&hide_border=true" alt="" /> </p>
