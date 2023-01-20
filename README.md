@@ -1,10 +1,8 @@
 ## Name's Nick 
 
-- 🔭 I’m currently working on ... test1
-- Currently learning full MERN stack at <a href="https://leonnoel.com/100devs/" target="_blank" rel="noreferrer">100Devs</a>
-- Looking to collaborate on ... test2
-- 💬 Ask me about ...test5
-- 📫 How to reach me: ... test4
+-  I’m currently working as Systems Analyst at <a href="https://www.lacitysan.org/" target="_blank" rel="noreferrer">LASAN</a> for the City of Los Angeles
+- Applying full MERN stack at <a href="https://leonnoel.com/100devs/" target="_blank" rel="noreferrer">100Devs</a>
+- Ask me about climbing or motorcycles!
 
 ## Want to Connect? 
 <p float="left"> 
